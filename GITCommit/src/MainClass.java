@@ -11,6 +11,7 @@ public class MainClass
 	    System.out.println(names[i]);
 	    System.out.println(names[i]);
 	    System.out.println("Pozdrav");
+	    System.out.println("Pozdrav jos jednom");
 	}
 
     }
